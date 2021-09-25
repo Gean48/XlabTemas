@@ -1,9 +1,15 @@
+[
+
 {
- "type":"banner",
- "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Nova função 🚀",
- "description":"Ei $name você foi escolhido para testar uma nova função que foi adicionada no WhatsApp mas que poucos sabem\n\nConfira abaixo como utilizar :)",
- "button_url":"testar agora",
- "url":"https://youtu.be/WPUDYDQVQKo",
- "id":"ad0101010o1"
+  "theme_server":"WAMODS",
+  "theme_name":"YxWA Alfa V8.97",
+  "theme_user":"Picasso 🎨",
+  "theme_date":"23 de setembro",
+  "theme_size":"53,97 MB",
+  "theme_preview_1":"https://telegra.ph/file/696b651f47622dfd95519.jpg",
+  "theme_preview_2":"https://telegra.ph/file/81b75ad760f31b36b80eb.jpg",
+  "theme_preview_3":"https://telegra.ph/file/2779e39f2272cbe633ca6.jpg",
+  "theme_download_noads":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
+  "theme_download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html"
 }
+]
