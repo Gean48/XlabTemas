@@ -6,5 +6,7 @@
  "category_title_3":"MD",
  "category_tags_3":"MD",
  "category_title_4":"YxWhatsApp",
- "category_tags_4":"YxWhatsApp"
+ "category_tags_4":"YxWhatsApp",
+ "category_title_5":"WAMODS",
+ "category_tags_5":"WAMODS"
 }
