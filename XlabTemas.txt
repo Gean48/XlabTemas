@@ -6,9 +6,9 @@
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
   "theme_size": "2.15 MB",
-  "theme_preview_1": "https://telegra.ph/file/b5d52a1bd6c79cf03c811.png",
-  "theme_preview_2": "https://telegra.ph/file/2afe8967354d398a11091.png",
-  "theme_preview_3": "https://telegra.ph/file/1e47dbe8ec6f5c3fd99dd.png",
+  "theme_preview_1": "https://telegra.ph/file/4d321e43bea25c6163b99.png",
+  "theme_preview_2": "https://telegra.ph/file/4e0100fa14ffd642740c1.png",
+  "theme_preview_3": "https://telegra.ph/file/911fc185a9aa48acb477e.png",
   "theme_download_noads": "https://www.mediafire.com/file/ghbjtsqzofif7r1/Violet+Evergarden.zip/file",
   "theme_download": "https://seulink.online/ZHdCjBQ4"
 },
