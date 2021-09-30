@@ -1,4 +1,53 @@
 [
+
+{
+  "theme_server": "DELTA",
+  "theme_name": "Violet Evergard",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "30 de setembro",
+  "theme_size": "2.15 MB",
+  "theme_preview_1": "https://telegra.ph/file/b5d52a1bd6c79cf03c811.png",
+  "theme_preview_2": "https://telegra.ph/file/2afe8967354d398a11091.png",
+  "theme_preview_3": "https://telegra.ph/file/1e47dbe8ec6f5c3fd99dd.png",
+  "theme_download_noads": "https://www.mediafire.com/file/ghbjtsqzofif7r1/Violet+Evergarden.zip/file",
+  "theme_download": "https://seulink.online/ZHdCjBQ4"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Kanna",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "30 de setembro",
+  "theme_size": "1.30 MB",
+  "theme_preview_1": "https://telegra.ph/file/0c949c3d9e7bae775ba8a.png",
+  "theme_preview_2": "https://telegra.ph/file/577d1dd44d1cd5cbc3c25.png",
+  "theme_preview_3": "https://telegra.ph/file/aa60659cca89920370864.png",
+  "theme_download_noads": "https://www.mediafire.com/file/wgt6ivnfxzz8pq4/Kanna.zip/file",
+  "theme_download": "https://seulink.online/Xr89qJlF3"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Luffy",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "30 de setembro",
+  "theme_size": "700.23 KB",
+  "theme_preview_1": "https://telegra.ph/file/d0f09a706656269aa7f0c.png",
+  "theme_preview_2": "https://telegra.ph/file/d65f630852b993efacbdf.png",
+  "theme_preview_3": "https://telegra.ph/file/eb0547256ffaa2de650ac.png",
+  "theme_download_noads": "https://www.mediafire.com/file/fdmwbmilsytr2br/Luffy.zip/file",
+  "theme_download": "https://seulink.online/HuGxJuGUb"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Mickey e Minnie",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "30 de setembro",
+  "theme_size": "604.3 KB",
+  "theme_preview_1": "https://telegra.ph/file/86fcdeca766a24b6f4631.png",
+  "theme_preview_2": "https://telegra.ph/file/a640e994b8cf6d94926f5.png",
+  "theme_preview_3": "https://telegra.ph/file/ee66512291e4ef788afea.png",
+  "theme_download_noads": "https://www.mediafire.com/file/yf1oatxnhfrn73i/Mickey+e+Minnie.zip/file",
+  "theme_download": "https://seulink.online/oXBlX"
+},
 {
   "theme_server": "YxWhatsApp",
   "theme_name": "Mickey e Minnie",
