@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Grupo de suporte",
- "description":"Participe do nosso grupo de suporte no Facebook e fique por dentro das novidades!",
+ "title":"Me siga no Instagram 😍",
+ "description":"Me siga no Instagram para ficar por dentro das novidades dos WhatsApp mods e para ver as besteiras que posto 🤭😍",
  "button_url":"participar",
- "url":"https://www.facebook.com/groups/suportewhatsapp",
- "id":"yutt187qbermgp7"
+ "url":"https://www.instagram.com/dom_gean",
+ "id":"yutt187qbermgp9"
 }
