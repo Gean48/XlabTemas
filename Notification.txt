@@ -3,7 +3,7 @@
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
  "title":"Me siga no Instagram 😍",
  "description":"Me siga no Instagram para ficar por dentro das novidades dos WhatsApp mods e para ver as besteiras que posto 🤭😍",
- "button_url":"participar",
+ "button_url":"seguir",
  "url":"https://www.instagram.com/dom_gean",
  "id":"yutt187qbermgp9"
 }
