@@ -2,6 +2,42 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Padrão",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "06 de outubro",
+  "theme_size": "525.82 KB",
+  "theme_preview_1": "https://telegra.ph/file/344464623dbc0f381bae1.png",
+  "theme_preview_2": "https://telegra.ph/file/ef3b7ddea4e1ac224491f.png",
+  "theme_preview_3": "https://telegra.ph/file/c6d74b158fcefeaf64aa7.png",
+  "theme_download_noads": "https://www.mediafire.com/file/mdew2zetwti64xh/Padrão.zip/file",
+  "theme_download": "https://seulink.online/tARP6p"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Call of Duty",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "06 de outubro",
+  "theme_size": "1.81 MB",
+  "theme_preview_1": "https://telegra.ph/file/4b36bc9bc6e28a142dea4.png",
+  "theme_preview_2": "https://telegra.ph/file/ceb19b524bafc2a47606a.png",
+  "theme_preview_3": "https://telegra.ph/file/1460bc4b73c5c7234b70f.png",
+  "theme_download_noads": "https://www.mediafire.com/file/92jtynly2piyhn3/Call+of+Duty.zip/file",
+  "theme_download": "https://seulink.online/aglVlB"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Arlequina",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "06 de outubro",
+  "theme_size": "3.71 MB",
+  "theme_preview_1": "https://telegra.ph/file/fd4115acd537e9996318c.png",
+  "theme_preview_2": "https://telegra.ph/file/b87df945c8504eb35b6ac.png",
+  "theme_preview_3": "https://telegra.ph/file/c58aac9ef45041b8d9b48.png",
+  "theme_download_noads": "https://www.mediafire.com/file/jrd2h60zqb5r4uw/Arlequina.zip/file",
+  "theme_download": "https://seulink.online/72n5"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Violet Evergard",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
