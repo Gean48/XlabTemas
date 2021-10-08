@@ -2,6 +2,18 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Halloween",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "08 de outubro",
+  "theme_size": "1.83 MB",
+  "theme_preview_1": "https://telegra.ph/file/28b768df41cedf0c9662f.png",
+  "theme_preview_2": "https://telegra.ph/file/0fc0fc00ea5f521588ef5.png",
+  "theme_preview_3": "https://telegra.ph/file/3bef284c5d56625f04e16.png",
+  "theme_download_noads": "https://www.mediafire.com/file/4vifuh0j5fismb1/Halloween.zip/file",
+  "theme_download": "https://seulink.online/nbKRc"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Pikachu",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
