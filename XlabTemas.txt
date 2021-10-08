@@ -2,6 +2,42 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Pikachu",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "08 de outubro",
+  "theme_size": "1.09 MB",
+  "theme_preview_1": "https://telegra.ph/file/2c663dfd25a236557e6c9.png",
+  "theme_preview_2": "https://telegra.ph/file/1be36bfc38527dc60d01b.png",
+  "theme_preview_3": "https://telegra.ph/file/3631cb69d6f1d0b0abb1b.png",
+  "theme_download_noads": "https://www.mediafire.com/file/orxcamtbfgu053d/Pikachu.zip/file",
+  "theme_download": "https://seulink.online/o3HX"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Cowboy",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "08 de outubro",
+  "theme_size": "2.10 MB",
+  "theme_preview_1": "https://telegra.ph/file/1dfb31f8c03214913b58a.png",
+  "theme_preview_2": "https://telegra.ph/file/63f04be39eabd3ebc1fba.png",
+  "theme_preview_3": "https://telegra.ph/file/c68fcc178b3b90c917b06.png",
+  "theme_download_noads": "https://www.mediafire.com/file/58e4h79a4pc7zrj/Cowboy.zip/file",
+  "theme_download": "https://seulink.online/XJcrtk"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Unicórnio",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "08 de outubro",
+  "theme_size": "197.94 MB",
+  "theme_preview_1": "https://telegra.ph/file/1762ffa8983bd036a7fa5.png",
+  "theme_preview_2": "https://telegra.ph/file/d896f79493f4b405813f2.png",
+  "theme_preview_3": "https://telegra.ph/file/6a2ca43a5c6b22ad73d40.png",
+  "theme_download_noads": "https://www.mediafire.com/file/qt7kih4yt0a7gpb/Unic%25C3%25B3rnio.zip/file",
+  "theme_download": "https://seulink.online/2rOcQ6U"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Padrão",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
