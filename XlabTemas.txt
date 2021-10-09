@@ -2,6 +2,18 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Scorpion",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "09 de outubro",
+  "theme_size": "3.15 MB",
+  "theme_preview_1": "https://telegra.ph/file/cf190344aef849a697e69.png",
+  "theme_preview_2": "https://telegra.ph/file/1b174889ec94b61eea061.png",
+  "theme_preview_3": "https://telegra.ph/file/3cfcbce3d4a2d71a652bc.png",
+  "theme_download_noads": "https://www.mediafire.com/file/b7zjbac5k1j16cn/Scorpion.zip/file",
+  "theme_download": "https://seulink.online/jSM9Vh"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Halloween",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
