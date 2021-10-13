@@ -2,6 +2,18 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Goku Black",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "13 de outubro",
+  "theme_size": "1.98 MB",
+  "theme_preview_1": "https://telegra.ph/file/d31600a8f7291f1ff7e6b.png",
+  "theme_preview_2": "https://telegra.ph/file/762b9925b2d5f9e275ca2.png",
+  "theme_preview_3": "https://telegra.ph/file/9ecfbf4c5b3285af1f6a9.png",
+  "theme_download_noads": "https://www.mediafire.com/file/le602lg1w7pfzou/Goku+Black.zip/file",
+  "theme_download": "https://seulink.online/QFalfwI2T"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Flamengo",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
