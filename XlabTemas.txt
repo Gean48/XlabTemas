@@ -2,6 +2,42 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Arlequina V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "14 de outubro",
+  "theme_size": "4.22 MB",
+  "theme_preview_1": "https://telegra.ph/file/6479ce3fae1e40438fc19.png",
+  "theme_preview_2": "https://telegra.ph/file/6503d764f031221a93331.png",
+  "theme_preview_3": "https://telegra.ph/file/0a89658bcea86e92b182a.png",
+  "theme_download_noads": "https://www.mediafire.com/file/mifcd1gz50crz45/Arlequina+V2.zip/file",
+  "theme_download": "https://seulink.online/j4DBXfOJ"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Dark V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "14 de outubro",
+  "theme_size": "4.83 KB",
+  "theme_preview_1": "https://telegra.ph/file/bc3603636e1ab6cf03910.png",
+  "theme_preview_2": "https://telegra.ph/file/b11587f9ef68b60daf71e.png",
+  "theme_preview_3": "https://telegra.ph/file/40f5976cf755bb64d73d9.png",
+  "theme_download_noads": "https://www.mediafire.com/file/ye3vy5oztqvo2zn/Dark+V2.zip/file",
+  "theme_download": "https://seulink.online/eSonV1DS8y"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Dark V1",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "14 de outubro",
+  "theme_size": "3.79 KB",
+  "theme_preview_1": "https://telegra.ph/file/6d43aa09d3dac8e37a44c.png",
+  "theme_preview_2": "https://telegra.ph/file/9f36d4a3fa185f1fc64b4.png",
+  "theme_preview_3": "https://telegra.ph/file/7193e91e247e0d5a31930.png",
+  "theme_download_noads": "https://www.mediafire.com/file/wnnmvoxbodb0e1c/Dark+V1.zip/file",
+  "theme_download": "https://seulink.online/fgTo"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Goku Black",
   "theme_user": "Picasso 🎨",
   "theme_date": "13 de outubro",
