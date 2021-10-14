@@ -2,6 +2,30 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Goku V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "14 de outubro",
+  "theme_size": "1.07 MB",
+  "theme_preview_1": "https://telegra.ph/file/a42f6b7011545e89620a8.png",
+  "theme_preview_2": "https://telegra.ph/file/433a4800ade9f171fd23b.png",
+  "theme_preview_3": "https://telegra.ph/file/5cf729783bd93690aad27.png",
+  "theme_download_noads": "https://www.mediafire.com/file/dhxw9ku9pnyr2al/Goku+V2.zip/file",
+  "theme_download": "https://seulink.online/d3e8"
+},
+{
+  "theme_server": "DELTA",
+  "theme_name": "Broly V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "14 de outubro",
+  "theme_size": "3.48 MB",
+  "theme_preview_1": "https://telegra.ph/file/9412043c774d0bc2b43a3.png",
+  "theme_preview_2": "https://telegra.ph/file/cad4eb918b8e3b6fd81ad.png",
+  "theme_preview_3": "https://telegra.ph/file/ec5b2982294f7c595b302.png",
+  "theme_download_noads": "https://www.mediafire.com/file/wu7ej63yui787bx/Broly+V2.zip/file",
+  "theme_download": "https://seulink.online/nVZUOz"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Arlequina V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
