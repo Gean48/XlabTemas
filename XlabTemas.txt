@@ -2,6 +2,18 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Gaara",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "21 de outubro",
+  "theme_size": "3.28 MB",
+  "theme_preview_1": "https://telegra.ph/file/6c0f3b3803aba66044894.png",
+  "theme_preview_2": "https://telegra.ph/file/4296604097ee7d679719f.png",
+  "theme_preview_3": "https://telegra.ph/file/6fa25cf1afd71be92c349.png",
+  "theme_download_noads": "https://www.mediafire.com/file/qp47c7ledhb034o/Gaara.zip/file",
+  "theme_download": "https://seulink.online/WpCIXbmk"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Goku V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
