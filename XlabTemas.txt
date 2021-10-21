@@ -2,6 +2,18 @@
 
 {
   "theme_server": "DELTA",
+  "theme_name": "Venom",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "21 de outubro",
+  "theme_size": "5.61 MB",
+  "theme_preview_1": "https://telegra.ph/file/4259b6ae3e61eb0351f85.png",
+  "theme_preview_2": "https://telegra.ph/file/de052aa2dde97f351d51d.png",
+  "theme_preview_3": "https://telegra.ph/file/bec5037cef9d9f1a05e34.png",
+  "theme_download_noads": "https://www.mediafire.com/file/8eswnl3l25e6m5d/Venom.zip/file",
+  "theme_download": "https://seulink.online/LmqPCD9Dz"
+},
+{
+  "theme_server": "DELTA",
   "theme_name": "Gaara",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
