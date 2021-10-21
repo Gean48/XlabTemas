@@ -3,10 +3,10 @@
  "category_tags_1":"FOUAD",
  "category_title_2":"DELTA",
  "category_tags_2":"DELTA",
- "category_title_3":"MD",
- "category_tags_3":"MD",
- "category_title_4":"YxWhatsApp",
- "category_tags_4":"YxWhatsApp",
- "category_title_5":"WAMODS",
- "category_tags_5":"WAMODS"
+ "category_title_3":"App's",
+ "category_tags_3":"app",
+ "category_title_4":"Vaga",
+ "category_tags_4":"vaga",
+ "category_title_5":"Vaga",
+ "category_tags_5":"vaga2"
 }
