@@ -1,8 +1,8 @@
 { 
  "category_title_1":"FOUAD",
  "category_tags_1":"FOUAD",
- "category_title_2":"DELTA",
- "category_tags_2":"DELTA",
+ "category_title_2":"MAGNUM",
+ "category_tags_2":"MAGNUM",
  "category_title_3":"WAMODS",
  "category_tags_3":"WAMODS",
  "category_title_4":"App's",
