@@ -1,7 +1,19 @@
 [
 
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
+  "theme_name": "Iron Man",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "01 novembro",
+  "theme_size": "1.05 MB",
+  "theme_preview_1": "https://telegra.ph/file/61d77e4b41508a1553cf9.png",
+  "theme_preview_2": "https://telegra.ph/file/a27f7255666cea9b15e59.png",
+  "theme_preview_3": "https://telegra.ph/file/d32ee297dbbcbd5a9b1f3.png",
+  "theme_download_noads": "https://www.mediafire.com/file/uzt0qs229as508o/Iron+Man.zip/file",
+  "theme_download": "https://seulink.online/PjUeM"
+},
+{
+  "theme_server": "MAGNUM",
   "theme_name": "Venom",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -13,7 +25,7 @@
   "theme_download": "https://seulink.online/LmqPCD9Dz"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Gaara",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -25,7 +37,7 @@
   "theme_download": "https://seulink.online/WpCIXbmk"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Goku V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -37,7 +49,7 @@
   "theme_download": "https://seulink.online/d3e8"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Broly V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -49,7 +61,7 @@
   "theme_download": "https://seulink.online/nVZUOz"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Arlequina V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -61,7 +73,7 @@
   "theme_download": "https://seulink.online/j4DBXfOJ"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Dark V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -73,7 +85,7 @@
   "theme_download": "https://seulink.online/eSonV1DS8y"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Dark V1",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -85,7 +97,7 @@
   "theme_download": "https://seulink.online/fgTo"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Goku Black",
   "theme_user": "Picasso 🎨",
   "theme_date": "13 de outubro",
@@ -97,7 +109,7 @@
   "theme_download": "https://seulink.online/QFalfwI2T"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Flamengo",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -109,7 +121,7 @@
   "theme_download": "https://seulink.online/zTOvJs4G"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Corinthians",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -121,7 +133,7 @@
   "theme_download": "https://seulink.online/0ufxZjqF"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Lúcifer",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -133,7 +145,7 @@
   "theme_download": "https://seulink.online/tjdQiv8pj"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Scorpion",
   "theme_user": "Picasso 🎨",
   "theme_date": "09 de outubro",
@@ -145,7 +157,7 @@
   "theme_download": "https://seulink.online/jSM9Vh"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Halloween",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -157,7 +169,7 @@
   "theme_download": "https://seulink.online/nbKRc"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Pikachu",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -169,7 +181,7 @@
   "theme_download": "https://seulink.online/o3HX"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Cowboy",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -181,7 +193,7 @@
   "theme_download": "https://seulink.online/XJcrtk"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Unicórnio",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -193,7 +205,7 @@
   "theme_download": "https://seulink.online/2rOcQ6U"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Padrão",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -205,7 +217,7 @@
   "theme_download": "https://seulink.online/tARP6p"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Call of Duty",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -217,7 +229,7 @@
   "theme_download": "https://seulink.online/aglVlB"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Arlequina",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -229,7 +241,7 @@
   "theme_download": "https://seulink.online/72n5"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Violet Evergard",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -241,7 +253,7 @@
   "theme_download": "https://seulink.online/ZHdCjBQ4"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Kanna",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -253,7 +265,7 @@
   "theme_download": "https://seulink.online/Xr89qJlF3"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Luffy",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -265,7 +277,7 @@
   "theme_download": "https://seulink.online/HuGxJuGUb"
 },
 {
-  "theme_server": "DELTA",
+  "theme_server": "MAGNUM",
   "theme_name": "Mickey e Minnie",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -275,18 +287,6 @@
   "theme_preview_3": "https://telegra.ph/file/ee66512291e4ef788afea.png",
   "theme_download_noads": "https://www.mediafire.com/file/yf1oatxnhfrn73i/Mickey+e+Minnie.zip/file",
   "theme_download": "https://seulink.online/oXBlX"
-},
-{
-  "theme_server": "YxWhatsApp",
-  "theme_name": "Mickey e Minnie",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "25 de setembro",
-  "theme_size": "604.92 KB",
-  "theme_preview_1": "https://telegra.ph/file/29d6d774fabc943db0cdf.png",
-  "theme_preview_2": "https://telegra.ph/file/61ca834487b37abc8644b.png",
-  "theme_preview_3": "https://telegra.ph/file/aecf8edccf6af3c285bd4.png",
-  "theme_download_noads": "https://www.mediafire.com/file/8bq4ygvyqb27k6v/Mickey_e_Minnie.zip/file",
-  "theme_download": "https://seulink.online/Q1lc"
 },
 {
   "theme_server":"WAMODS",
