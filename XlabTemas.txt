@@ -2,6 +2,107 @@
 
 {
   "theme_server": "FOUAD",
+  "theme_name": "Lúcifer",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "1.98 MB",
+  "theme_preview_1": "https://telegra.ph/file/664901071e1e4254eda11.png",
+  "theme_preview_2": "https://telegra.ph/file/6b2356db3ec4224857f30.png",
+  "theme_preview_3": "https://telegra.ph/file/3083cc68ddc4d1381a1c1.png",
+  "theme_download_noads": "https://www.mediafire.com/file/8bxkv05ha89o5sb/L%25C3%25BAcifer.zip/file",
+  "theme_download": "https://seulink.online/X2v9PTiLGK"
+},
+{
+  "theme_server": "FOUAD",
+  "theme_name": "Goku V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "1.07 MB",
+  "theme_preview_1": "https://telegra.ph/file/c71a87548b7978b25c8ef.png",
+  "theme_preview_2": "https://telegra.ph/file/8b32954784ac63362fdb2.png",
+  "theme_preview_3": "https://telegra.ph/file/c91da50ee18a1d1164818.png",
+  "theme_download_noads": "https://www.mediafire.com/file/cd06le1bijn0scl/Goku_V2.zip/file",
+  "theme_download": "https://seulink.online/YezQEK"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "Dark V1",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "3.89 KB",
+  "theme_preview_1": "https://telegra.ph/file/f0ca422e1b788fab256da.png",
+  "theme_preview_2": "https://telegra.ph/file/739311a0669b82a754aec.png",
+  "theme_preview_3": "https://telegra.ph/file/5c53d8476b37dacdfce5d.png",
+  "theme_download_noads": "https://www.mediafire.com/file/sxcxmvb2rrotud8/Dark_V1.zip/file",
+  "theme_download": "https://seulink.online/yGBRkm1CiA"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "IT",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "1.97 MB",
+  "theme_preview_1": "https://telegra.ph/file/00b092a0515ae8d4dac1e.png",
+  "theme_preview_2": "https://telegra.ph/file/8a5131052aea9df692d0e.png",
+  "theme_preview_3": "https://telegra.ph/file/ec7cb52fbe168b34f70fe.png",
+  "theme_download_noads": "https://www.mediafire.com/file/s65vlys3zrjs92p/IT.zip/file",
+  "theme_download": "https://seulink.online/WQ6KOShb"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "Goku Black",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "1.98 MB",
+  "theme_preview_1": "https://telegra.ph/file/5e1601cc0100419a863cb.png",
+  "theme_preview_2": "https://telegra.ph/file/142129ba35a6beab14c30.png",
+  "theme_preview_3": "https://telegra.ph/file/2e085546f99a856d1dfbc.png",
+  "theme_download_noads": "https://www.mediafire.com/file/mxzdemdvc4y293w/Goku_Black.zip/file",
+  "theme_download": "https://seulink.online/fHBzIilzGm"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "Broly V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "3.48 MB",
+  "theme_preview_1": "https://telegra.ph/file/2f0d67e15fe1ba4a939c0.png",
+  "theme_preview_2": "https://telegra.ph/file/011992577aab27a4643f0.png",
+  "theme_preview_3": "https://telegra.ph/file/9eff01e81273c20438025.png",
+  "theme_download_noads": "https://www.mediafire.com/file/55pws0ui7v6le71/Broly_V2.zip/file",
+  "theme_download": "https://seulink.online/WHagfavG"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "Dark V2",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "4.83 KB",
+  "theme_preview_1": "https://telegra.ph/file/fb621792f65a32c8e735c.png",
+  "theme_preview_2": "https://telegra.ph/file/c2de1513965cef61e781a.png",
+  "theme_preview_3": "https://telegra.ph/file/dfa9d0aaed0cd3f12a2b3.png",
+  "theme_download_noads": "https://www.mediafire.com/file/1m3i2sdwhcyfbfo/Dark_V2.zip/file",
+  "theme_download": "https://seulink.online/IkHBohwN1"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "Flamengo",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "613.63 KB",
+  "theme_preview_1": "https://telegra.ph/file/6b445886b009843d51ddd.png",
+  "theme_preview_2": "https://telegra.ph/file/bc164beb8ed649e022f1f.png",
+  "theme_preview_3": "https://telegra.ph/file/6edd593b0ae8556227bdf.png",
+  "theme_download_noads": "https://www.mediafire.com/file/zyq9uho2w52zp1c/Flamengo.zip/file",
+  "theme_download": "https://seulink.online/050XboP"
+},{
+  "theme_server": "FOUAD",
+  "theme_name": "Corinthians",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "18 de novembro",
+  "theme_size": "413.33 KB",
+  "theme_preview_1": "https://telegra.ph/file/ed5f4e693e374b8d5bd73.png",
+  "theme_preview_2": "https://telegra.ph/file/d660238b3ed753e567dc3.png",
+  "theme_preview_3": "https://telegra.ph/file/8da61e685a6cd157bc07f.png",
+  "theme_download_noads": "https://www.mediafire.com/file/jyrl4t04xvochbj/Corinthians.zip/file",
+  "theme_download": "https://seulink.online/YSwMZE60y8"
+},
+{
+  "theme_server": "FOUAD",
   "theme_name": "Iron Man",
   "theme_user": "Picasso 🎨",
   "theme_date": "12 de novembro",
