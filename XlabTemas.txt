@@ -1,5 +1,16 @@
 [
-
+{
+  "theme_server": "MAGNUM",
+  "theme_name": "Madara Uchiha",
+  "theme_user": "Picasso 🎨",
+  "theme_date": "01 de dezembro",
+  "theme_size": "1,5 MB",
+  "theme_preview_1": "https://telegra.ph/file/1800c75f690160e4cb1d8.png",
+  "theme_preview_2": "https://telegra.ph/file/7bab0b9029333ac1786ba.png",
+  "theme_preview_3": "https://telegra.ph/file/b856231df51dc44ec1975.png",
+  "theme_download_noads": "https://wa.me/+16622148071",
+  "theme_download": "https://wa.me/+16622148071"
+},
 {
   "theme_server": "FOUAD",
   "theme_name": "Lúcifer",
