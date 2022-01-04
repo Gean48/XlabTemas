@@ -1,9 +1,9 @@
 {
  "type":"banner",
  "banner_url":"https://telegra.ph/Speed-Up-Add-on-10-18",
- "title":"Me siga no Instagram 😍",
- "description":"Me siga no Instagram para ficar por dentro das novidades dos WhatsApp mods e para ver as besteiras que posto 🤭😍",
- "button_url":"seguir",
- "url":"https://www.instagram.com/dom_gean",
- "id":"yutt187qbermgp9"
+ "title":"Nova atualização 🎖️",
+ "description":"A nova atualização tem temas apenas para DELTA WhatsApp. Estaremos criando temas apenas para esse WhatsApp 🤭😍",
+ "button_url":"baixar",
+ "url":"https://www.mediafire.com/file/f28coxrwbbqxpcn/DELTA_-_Temas.apk/file",
+ "id":"yutt187qbermgq8"
 }
