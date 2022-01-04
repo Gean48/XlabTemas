@@ -1,6 +1,6 @@
 [
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Madara Uchiha",
   "theme_user": "Picasso 🎨",
   "theme_date": "01 de dezembro",
@@ -12,144 +12,7 @@
   "theme_download": "https://wa.me/+16622148071"
 },
 {
-  "theme_server": "FOUAD",
-  "theme_name": "Lúcifer",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "1.98 MB",
-  "theme_preview_1": "https://telegra.ph/file/664901071e1e4254eda11.png",
-  "theme_preview_2": "https://telegra.ph/file/6b2356db3ec4224857f30.png",
-  "theme_preview_3": "https://telegra.ph/file/3083cc68ddc4d1381a1c1.png",
-  "theme_download_noads": "https://www.mediafire.com/file/8bxkv05ha89o5sb/L%25C3%25BAcifer.zip/file",
-  "theme_download": "https://seulink.online/X2v9PTiLGK"
-},
-{
-  "theme_server": "FOUAD",
-  "theme_name": "Goku V2",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "1.07 MB",
-  "theme_preview_1": "https://telegra.ph/file/c71a87548b7978b25c8ef.png",
-  "theme_preview_2": "https://telegra.ph/file/8b32954784ac63362fdb2.png",
-  "theme_preview_3": "https://telegra.ph/file/c91da50ee18a1d1164818.png",
-  "theme_download_noads": "https://www.mediafire.com/file/cd06le1bijn0scl/Goku_V2.zip/file",
-  "theme_download": "https://seulink.online/YezQEK"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "Dark V1",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "3.89 KB",
-  "theme_preview_1": "https://telegra.ph/file/f0ca422e1b788fab256da.png",
-  "theme_preview_2": "https://telegra.ph/file/739311a0669b82a754aec.png",
-  "theme_preview_3": "https://telegra.ph/file/5c53d8476b37dacdfce5d.png",
-  "theme_download_noads": "https://www.mediafire.com/file/sxcxmvb2rrotud8/Dark_V1.zip/file",
-  "theme_download": "https://seulink.online/yGBRkm1CiA"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "IT",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "1.97 MB",
-  "theme_preview_1": "https://telegra.ph/file/00b092a0515ae8d4dac1e.png",
-  "theme_preview_2": "https://telegra.ph/file/8a5131052aea9df692d0e.png",
-  "theme_preview_3": "https://telegra.ph/file/ec7cb52fbe168b34f70fe.png",
-  "theme_download_noads": "https://www.mediafire.com/file/s65vlys3zrjs92p/IT.zip/file",
-  "theme_download": "https://seulink.online/WQ6KOShb"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "Goku Black",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "1.98 MB",
-  "theme_preview_1": "https://telegra.ph/file/5e1601cc0100419a863cb.png",
-  "theme_preview_2": "https://telegra.ph/file/142129ba35a6beab14c30.png",
-  "theme_preview_3": "https://telegra.ph/file/2e085546f99a856d1dfbc.png",
-  "theme_download_noads": "https://www.mediafire.com/file/mxzdemdvc4y293w/Goku_Black.zip/file",
-  "theme_download": "https://seulink.online/fHBzIilzGm"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "Broly V2",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "3.48 MB",
-  "theme_preview_1": "https://telegra.ph/file/2f0d67e15fe1ba4a939c0.png",
-  "theme_preview_2": "https://telegra.ph/file/011992577aab27a4643f0.png",
-  "theme_preview_3": "https://telegra.ph/file/9eff01e81273c20438025.png",
-  "theme_download_noads": "https://www.mediafire.com/file/55pws0ui7v6le71/Broly_V2.zip/file",
-  "theme_download": "https://seulink.online/WHagfavG"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "Dark V2",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "4.83 KB",
-  "theme_preview_1": "https://telegra.ph/file/fb621792f65a32c8e735c.png",
-  "theme_preview_2": "https://telegra.ph/file/c2de1513965cef61e781a.png",
-  "theme_preview_3": "https://telegra.ph/file/dfa9d0aaed0cd3f12a2b3.png",
-  "theme_download_noads": "https://www.mediafire.com/file/1m3i2sdwhcyfbfo/Dark_V2.zip/file",
-  "theme_download": "https://seulink.online/IkHBohwN1"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "Flamengo",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "613.63 KB",
-  "theme_preview_1": "https://telegra.ph/file/6b445886b009843d51ddd.png",
-  "theme_preview_2": "https://telegra.ph/file/bc164beb8ed649e022f1f.png",
-  "theme_preview_3": "https://telegra.ph/file/6edd593b0ae8556227bdf.png",
-  "theme_download_noads": "https://www.mediafire.com/file/zyq9uho2w52zp1c/Flamengo.zip/file",
-  "theme_download": "https://seulink.online/050XboP"
-},{
-  "theme_server": "FOUAD",
-  "theme_name": "Corinthians",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "18 de novembro",
-  "theme_size": "413.33 KB",
-  "theme_preview_1": "https://telegra.ph/file/ed5f4e693e374b8d5bd73.png",
-  "theme_preview_2": "https://telegra.ph/file/d660238b3ed753e567dc3.png",
-  "theme_preview_3": "https://telegra.ph/file/8da61e685a6cd157bc07f.png",
-  "theme_download_noads": "https://www.mediafire.com/file/jyrl4t04xvochbj/Corinthians.zip/file",
-  "theme_download": "https://seulink.online/YSwMZE60y8"
-},
-{
-  "theme_server": "FOUAD",
-  "theme_name": "Iron Man",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "12 de novembro",
-  "theme_size": "1.05 MB",
-  "theme_preview_1": "https://telegra.ph/file/777c99982d549afd15278.png",
-  "theme_preview_2": "https://telegra.ph/file/117e18cc7f92d1136716c.png",
-  "theme_preview_3": "https://telegra.ph/file/645587e69ce6fd41550f4.png",
-  "theme_download_noads": "https://www.mediafire.com/file/7ccwj886v7sidce/Iron+Man.zip/file",
-  "theme_download": "https://seulink.online/p0jr"
-},
-{
-  "theme_server": "FOUAD",
-  "theme_name": "Venom",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "12 de novembro",
-  "theme_size": "5.61 MB",
-  "theme_preview_1": "https://telegra.ph/file/46b374a9b9d8fdbd755cb.png",
-  "theme_preview_2": "https://telegra.ph/file/f6e694e05a096ffc64a62.png",
-  "theme_preview_3": "https://telegra.ph/file/9c414b77f38c73909885a.png",
-  "theme_download_noads": "https://www.mediafire.com/file/lbjex0na0l0fs80/Venom.zip/file",
-  "theme_download": "https://seulink.online/gtvSa"
-},
-{
-  "theme_server": "FOUAD",
-  "theme_name": "Arlequina V2",
-  "theme_user": "Picasso 🎨",
-  "theme_date": "12 de novembro",
-  "theme_size": "4.22 MB",
-  "theme_preview_1": "https://telegra.ph/file/d6e4cc6f30173371c3ec5.png",
-  "theme_preview_2": "https://telegra.ph/file/e772054cf0db234878497.png",
-  "theme_preview_3": "https://telegra.ph/file/dae3a3f696ee2bb9e58c9.png",
-  "theme_download_noads": "https://www.mediafire.com/file/wx83mnod6yqse5v/Arlequina+V2.zip/file",
-  "theme_download": "https://seulink.online/dpAI7x"
-},
-{
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Iron Man",
   "theme_user": "Picasso 🎨",
   "theme_date": "01 novembro",
@@ -161,7 +24,7 @@
   "theme_download": "https://seulink.online/PjUeM"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "FILMES",
   "theme_name": "Venom",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -173,7 +36,7 @@
   "theme_download": "https://seulink.online/LmqPCD9Dz"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Gaara",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -185,7 +48,7 @@
   "theme_download": "https://seulink.online/WpCIXbmk"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Goku V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -197,7 +60,7 @@
   "theme_download": "https://seulink.online/d3e8"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Broly V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -209,7 +72,7 @@
   "theme_download": "https://seulink.online/nVZUOz"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Arlequina V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -221,7 +84,7 @@
   "theme_download": "https://seulink.online/j4DBXfOJ"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "CORES",
   "theme_name": "Dark V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -233,7 +96,7 @@
   "theme_download": "https://seulink.online/eSonV1DS8y"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "CORES",
   "theme_name": "Dark V1",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -245,7 +108,7 @@
   "theme_download": "https://seulink.online/fgTo"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Goku Black",
   "theme_user": "Picasso 🎨",
   "theme_date": "13 de outubro",
@@ -257,7 +120,7 @@
   "theme_download": "https://seulink.online/QFalfwI2T"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "TIMES",
   "theme_name": "Flamengo",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -269,7 +132,7 @@
   "theme_download": "https://seulink.online/zTOvJs4G"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "TIMES",
   "theme_name": "Corinthians",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -281,7 +144,7 @@
   "theme_download": "https://seulink.online/0ufxZjqF"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "SERIE",
   "theme_name": "Lúcifer",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -293,7 +156,7 @@
   "theme_download": "https://seulink.online/tjdQiv8pj"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Scorpion",
   "theme_user": "Picasso 🎨",
   "theme_date": "09 de outubro",
@@ -305,7 +168,7 @@
   "theme_download": "https://seulink.online/jSM9Vh"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "OUTROS",
   "theme_name": "Halloween",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -317,7 +180,7 @@
   "theme_download": "https://seulink.online/nbKRc"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Pikachu",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -329,7 +192,7 @@
   "theme_download": "https://seulink.online/o3HX"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "OUTROS",
   "theme_name": "Cowboy",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -341,7 +204,7 @@
   "theme_download": "https://seulink.online/XJcrtk"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "OUTROS",
   "theme_name": "Unicórnio",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -353,7 +216,7 @@
   "theme_download": "https://seulink.online/2rOcQ6U"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "CORES",
   "theme_name": "Padrão",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -365,7 +228,7 @@
   "theme_download": "https://seulink.online/tARP6p"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "OUTROS",
   "theme_name": "Call of Duty",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -377,7 +240,7 @@
   "theme_download": "https://seulink.online/aglVlB"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "FILMES",
   "theme_name": "Arlequina",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -389,7 +252,7 @@
   "theme_download": "https://seulink.online/72n5"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Violet Evergard",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -401,7 +264,7 @@
   "theme_download": "https://seulink.online/ZHdCjBQ4"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Kanna",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -413,7 +276,7 @@
   "theme_download": "https://seulink.online/Xr89qJlF3"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Luffy",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -425,7 +288,7 @@
   "theme_download": "https://seulink.online/HuGxJuGUb"
 },
 {
-  "theme_server": "MAGNUM",
+  "theme_server": "ANIME",
   "theme_name": "Mickey e Minnie",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -435,17 +298,5 @@
   "theme_preview_3": "https://telegra.ph/file/ee66512291e4ef788afea.png",
   "theme_download_noads": "https://www.mediafire.com/file/yf1oatxnhfrn73i/Mickey+e+Minnie.zip/file",
   "theme_download": "https://seulink.online/oXBlX"
-},
-{
-  "theme_server":"WAMODS",
-  "theme_name":"YxWA Alfa V8.97",
-  "theme_user":"Picasso 🎨",
-  "theme_date":"23 de setembro",
-  "theme_size":"53,97 MB",
-  "theme_preview_1":"https://telegra.ph/file/696b651f47622dfd95519.jpg",
-  "theme_preview_2":"https://telegra.ph/file/81b75ad760f31b36b80eb.jpg",
-  "theme_preview_3":"https://telegra.ph/file/2779e39f2272cbe633ca6.jpg",
-  "theme_download_noads":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html",
-  "theme_download":"https://modsalfa.blogspot.com/2020/05/yxwa-alfa.html"
 }
 ]
