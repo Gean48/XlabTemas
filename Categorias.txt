@@ -8,5 +8,5 @@
  "category_title_4":"OUTROS",
  "category_tags_4":"OUTROS",
   "category_title_5":"FILMES & SÉRIES",
- "category_tags_5":"FS"
+ "category_tags_5":"FILMES & SÉRIES"
 }
