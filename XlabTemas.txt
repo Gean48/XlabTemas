@@ -24,7 +24,7 @@
   "theme_download": "https://seulink.online/PjUeM"
 },
 {
-  "theme_server": "FS",
+  "theme_server": "FILMES & SÉRIES",
   "theme_name": "Venom",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -144,7 +144,7 @@
   "theme_download": "https://seulink.online/0ufxZjqF"
 },
 {
-  "theme_server": "FS",
+  "theme_server": "FILMES & SÉRIES",
   "theme_name": "Lúcifer",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -240,7 +240,7 @@
   "theme_download": "https://seulink.online/aglVlB"
 },
 {
-  "theme_server": "FS",
+  "theme_server": "FILMES & SÉRIES",
   "theme_name": "Arlequina",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
