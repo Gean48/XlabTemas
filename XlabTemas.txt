@@ -1,6 +1,6 @@
 [
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Madara Uchiha",
   "theme_user": "Picasso 🎨",
   "theme_date": "01 de dezembro",
@@ -12,7 +12,7 @@
   "theme_download": "https://wa.me/+16622148071"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Iron Man",
   "theme_user": "Picasso 🎨",
   "theme_date": "01 novembro",
@@ -24,7 +24,7 @@
   "theme_download": "https://seulink.online/PjUeM"
 },
 {
-  "theme_server": "FILMES",
+  "theme_server": "FS",
   "theme_name": "Venom",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -36,7 +36,7 @@
   "theme_download": "https://seulink.online/LmqPCD9Dz"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Gaara",
   "theme_user": "Picasso 🎨",
   "theme_date": "21 de outubro",
@@ -48,7 +48,7 @@
   "theme_download": "https://seulink.online/WpCIXbmk"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Goku V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -60,7 +60,7 @@
   "theme_download": "https://seulink.online/d3e8"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Broly V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -72,7 +72,7 @@
   "theme_download": "https://seulink.online/nVZUOz"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Arlequina V2",
   "theme_user": "Picasso 🎨",
   "theme_date": "14 de outubro",
@@ -108,7 +108,7 @@
   "theme_download": "https://seulink.online/fgTo"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Goku Black",
   "theme_user": "Picasso 🎨",
   "theme_date": "13 de outubro",
@@ -144,7 +144,7 @@
   "theme_download": "https://seulink.online/0ufxZjqF"
 },
 {
-  "theme_server": "SERIE",
+  "theme_server": "FS",
   "theme_name": "Lúcifer",
   "theme_user": "Picasso 🎨",
   "theme_date": "10 de outubro",
@@ -156,7 +156,7 @@
   "theme_download": "https://seulink.online/tjdQiv8pj"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Scorpion",
   "theme_user": "Picasso 🎨",
   "theme_date": "09 de outubro",
@@ -180,7 +180,7 @@
   "theme_download": "https://seulink.online/nbKRc"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Pikachu",
   "theme_user": "Picasso 🎨",
   "theme_date": "08 de outubro",
@@ -240,7 +240,7 @@
   "theme_download": "https://seulink.online/aglVlB"
 },
 {
-  "theme_server": "FILMES",
+  "theme_server": "FS",
   "theme_name": "Arlequina",
   "theme_user": "Picasso 🎨",
   "theme_date": "06 de outubro",
@@ -252,7 +252,7 @@
   "theme_download": "https://seulink.online/72n5"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Violet Evergard",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -264,7 +264,7 @@
   "theme_download": "https://seulink.online/ZHdCjBQ4"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Kanna",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -276,7 +276,7 @@
   "theme_download": "https://seulink.online/Xr89qJlF3"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Luffy",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
@@ -288,7 +288,7 @@
   "theme_download": "https://seulink.online/HuGxJuGUb"
 },
 {
-  "theme_server": "ANIME",
+  "theme_server": "ANIMES",
   "theme_name": "Mickey e Minnie",
   "theme_user": "Picasso 🎨",
   "theme_date": "30 de setembro",
