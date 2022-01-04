@@ -1,12 +1,12 @@
 { 
  "category_title_1":"TIMES",
  "category_tags_1":"TIMES",
- "category_title_2":"ANIMES",
- "category_tags_2":"ANIMES",
- "category_title_3":"FILMES",
- "category_tags_3":"FILMES",
- "category_title_4":"SERIES",
- "category_tags_4":"SERIES",
+ "category_title_2":"CORES",
+ "category_tags_2":"CORES",
+  "category_title_3":"ANIMES",
+ "category_tags_3":"ANIMES",
+ "category_title_4":"FILMES",
+ "category_tags_4":"FS",
  "category_title_5":"OUTROS",
  "category_tags_5":"OUTROS"
 }
